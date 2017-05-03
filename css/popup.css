@@ -1,0 +1,21 @@
+.box {
+	width: 202px;
+}
+
+.top-button {
+	/*width: 50px;*/
+}
+
+.text {
+	width: 157px;
+    height: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.submit {
+	min-height: 28px;
+	border-radius: 5px;
+    background-color: #b3b3b3;
+    color: #fff;
+}

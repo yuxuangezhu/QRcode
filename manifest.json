@@ -1,0 +1,15 @@
+{
+  "name": "QRcode",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "This is a QRcode Plugin",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons":{
+		"16":"icon.png",
+		"48":"icon.png"
+	},
+  "permissions": ["http://*/*","tabs"]
+}
